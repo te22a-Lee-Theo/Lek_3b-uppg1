@@ -31,14 +31,11 @@ a
 {
     font-size: 20px;
 }
-#vänster
-/* .rubrikv */
+#rubrikv
 {
     background-color: yellow;
     border: solid black;
     padding: 20px;
-    /* padding-right: 145px;
-    padding-left: 145px;*/
     text-align: center;
     width: 50%;
 }
@@ -47,8 +44,6 @@ a
     background-color: pink;
     border: solid black;
     padding: 20px;
-    /* padding-right: 145px;
-    padding-left: 145px; */
     text-align: center;
     width: 50%;
 }
